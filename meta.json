@@ -5,148 +5,409 @@
   "name": "github-disruptek-grok",
   "tags": [
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.0.1",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.0.1",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_0_1"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.0.1"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.0.2",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.0.2",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_0_2"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.0.2"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.0.3",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.0.3",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_0_3"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.0.3"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.0.4",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.0.4",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_0_4"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.0.4"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.0.5",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.0.5",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_0_5"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.0.5"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.0.6",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.0.6",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_0_6"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.0.6"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.1.0",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.1.0",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_1_0"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.1.0"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.2.0",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.2.0",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_2_0"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.2.0"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.2.1",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.2.1",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_2_1"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.2.1"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.3.0",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.3.0",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_3_0"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.3.0"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.3.1",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.3.1",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_3_1"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.3.1"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.3.2",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.3.2",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_3_2"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.3.2"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.3.3",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.3.3",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_3_3"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.3.3"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.4.0",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.4.0",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_4_0"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.4.0"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.5.0",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.5.0",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_5_0"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.5.0"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.5.1",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.5.1",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_5_1"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.5.1"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.5.2",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.5.2",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_5_2"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.5.2"
     },
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.5.3",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/tags/0.5.3",
-      "url": "https://github.com/disruptek/grok",
-      "version": "0_5_3"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/tags/0.5.3"
     }
   ],
   "url": "https://github.com/disruptek/grok",
@@ -174,12 +435,23 @@
   ],
   "heads": [
     {
-      "description": "don't read too much into it",
+      "name": "grok",
+      "version": "0.5.3",
+      "author": "disruptek",
+      "desc": "don't read too much into it",
       "license": "MIT",
-      "name": "github-disruptek-grok",
-      "ref": "refs/heads/master",
-      "url": "https://github.com/disruptek/grok",
-      "version": "master"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/heads/master"
     }
   ]
 }
