@@ -7,22 +7,22 @@
   inputs.flakeNimbleLib.type  = "github";
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
-  inputs.src-github-disruptek-grok-master.flake = false;
-  inputs.src-github-disruptek-grok-master.ref   = "refs/heads/master";
-  inputs.src-github-disruptek-grok-master.owner = "disruptek";
-  inputs.src-github-disruptek-grok-master.repo  = "grok";
-  inputs.src-github-disruptek-grok-master.type  = "github";
+  inputs.src-grok-master.flake = false;
+  inputs.src-grok-master.ref   = "refs/heads/master";
+  inputs.src-grok-master.owner = "disruptek";
+  inputs.src-grok-master.repo  = "grok";
+  inputs.src-grok-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
     lib  = flakeNimbleLib.lib;
-    args = ["self" "nixpkgs" "flakeNimbleLib" "src-github-disruptek-grok-master"];
+    args = ["self" "nixpkgs" "flakeNimbleLib" "src-grok-master"];
     over = if builtins.pathExists ./override.nix 
            then { override = import ./override.nix; }
            else { };
   in lib.mkRefOutput (over // {
     inherit self nixpkgs ;
-    src  = deps."src-github-disruptek-grok-master";
+    src  = deps."src-grok-master";
     deps = builtins.removeAttrs deps args;
     meta = builtins.fromJSON (builtins.readFile ./meta.json);
   } );
