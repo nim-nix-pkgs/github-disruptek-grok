@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/disruptek/grok",
   "refs": [
-    "fatal: unable to access 'https://github.com/disruptek/grok/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/disruptek/grok/': Failed to connect to github.com port 443 after 131499 ms: Connection timed out",
     ""
   ],
   "heads": []
