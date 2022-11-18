@@ -204,10 +204,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-grok-master": "src-grok-master"
+        "src-grok-0_6_3": "src-grok-0_6_3"
       }
     },
-    "src-grok-master": {
+    "src-grok-0_6_3": {
       "flake": false,
       "locked": {
         "lastModified": 1667946697,
@@ -219,7 +219,7 @@
       },
       "original": {
         "owner": "disruptek",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.6.3",
         "repo": "grok",
         "type": "github"
       }
